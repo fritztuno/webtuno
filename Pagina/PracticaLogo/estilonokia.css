@@ -1,0 +1,28 @@
+body {
+    background-color: #124191; /* Color de fondo azul similar al de Nokia */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #ffffff; /* Color de fondo del contenedor */
+    padding: 20px; /* Espacio alrededor del logotipo dentro del contenedor */
+    border-radius: 10px; /* Bordes redondeados del contenedor */
+}
+
+.logo {
+    font-family: 'Arial', sans-serif; /* Fuente similar a la de Nokia */
+    font-size: 2rem;
+    color: white; /* Color del texto blanco */
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+}
+
+.n {
+    font-weight: bold; /* Hacer la "N" más gruesa como en el logotipo de Nokia */
+    padding-right: 5px; /* Espacio entre la "N" y "okia" */
+}

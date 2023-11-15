@@ -1,0 +1,27 @@
+body {
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.logo {
+    display: flex;
+    align-items: flex-start;
+    font-family: Arial, sans-serif;
+    font-size: 2rem;
+    color: red;
+}
+
+.n {
+    font-weight: bold;
+    font-size: 30rem;
+    margin-right: 10px;
+}
+
+.etflix {
+   font-size: 10rem;
+   margin-top: 80px;
+}
